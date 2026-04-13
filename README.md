@@ -1,8 +1,6 @@
 # AWS Website Deployment Project
-
 ## Overview
 I deployed a live website using AWS EC2 and integrated S3 for image storage.
-
 ## What I did
 - Launched an EC2 instance (Amazon Linux)
 - Connected via SSH
